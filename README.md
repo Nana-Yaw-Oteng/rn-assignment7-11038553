@@ -13,15 +13,15 @@ Welcome to Boutique2! This is a simple e-commerce website built with React and R
 
 Here are some screenshots of the website:
 
-![Homepage](assets/ss1.jpg)
+![Homepage](Boutique2/assets/ss1.jpg)
 
-![Product Details](assets/ss2.jpg)
+![Product Details](/Boutique2/assets/ss2.jpg)
 
-![Shopping Cart](assets/ss3.jpg)
+![Shopping Cart](Boutique2/assets/ss3.jpg)
 
-![Checkout](assets/ss4.jpg)
+![Checkout](Boutique2/assets/ss4.jpg)
 
-![Confirmation](assets/ss5.jpg)
+![Confirmation](Boutique2/assets/ss5.jpg)
 
 ## Components
 
